@@ -6,3 +6,5 @@ https://codelabs.developers.google.com/codelabs/webrtc-web/#0
 ### Safari WebRTC
 A apple recentemente implementou no ios e no navegador safari suporte a API WebRTC.
 https://bloggeek.me/webrtc-ios-support/
+
+API cordova que implementa o WebRTC em ios: https://github.com/BasqueVoIPMafia/cordova-plugin-iosrtc
